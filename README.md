@@ -45,4 +45,4 @@ This repository contains four interactive web development projects created as pa
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/skill-craft-projects.git
+   git clone https://github.com/oxBinaryBrain/skill-craft-projects.git
