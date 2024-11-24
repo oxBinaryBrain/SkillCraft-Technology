@@ -41,3 +41,27 @@ This repository contains four interactive web development projects created as pa
 
 ---
 
+
+### Technologies Used
+   - HTML5
+   - CSS3
+   - JavaScript (ES6)
+
+---
+
+
+
+### Acknowledgments
+These projects are part of the Skill Craft Technology program. Special thanks to the instructors and peers for their guidance and collaboration.
+
+
+### Contact
+For any queries or suggestions, feel free to reach out:
+
+GitHub: oxBinaryBrain
+
+Email: ud4yg@yandex.com
+
+
+
+
