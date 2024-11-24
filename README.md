@@ -1,6 +1,6 @@
 
 
-# SkillCraft Technology Projects
+## SkillCraft Technology Projects
 
 # Table of Contents:
 1. Task 01: Responsive Landing Page
