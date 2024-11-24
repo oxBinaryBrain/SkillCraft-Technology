@@ -6,7 +6,7 @@ This repository contains four interactive web development projects created as pa
 
 ## Project Overview
 
-### 1. **Responsive Landing Page**
+### 1. **Responsive Landing Page**  **SCT_WD_1**
    - **Description**: A responsive and interactive navigation menu that changes style on scroll and hover. It has a fixed position, making it visible across all sections of the page.
    - **Key Features**:
      - Interactive color/style change on scrolling or hovering.
@@ -14,7 +14,7 @@ This repository contains four interactive web development projects created as pa
 
 ---
 
-### 2. **Stopwatch Web Application**
+### 2. **Stopwatch Web Application**  **SCT_WD_2**
    - **Description**: A fully functional and user-friendly stopwatch web application with essential time-tracking features.
    - **Key Features**:
      - Start, pause, and reset functionalities.
@@ -23,7 +23,7 @@ This repository contains four interactive web development projects created as pa
 
 ---
 
-### 3. **Tic-Tac-Toe Web Application**
+### 3. **Tic-Tac-Toe Web Application**  **SCT_WD_3**
    - **Description**: A classic Tic-Tac-Toe game where users can play against each other or a computer.
    - **Key Features**:
      - User-friendly interface to handle player clicks.
@@ -32,7 +32,7 @@ This repository contains four interactive web development projects created as pa
 
 ---
 
-### 4. **To-Do Web Application**
+### 4. **To-Do Web Application**  **SCT_WD_4**
    - **Description**: A basic yet powerful to-do application to manage tasks efficiently.
    - **Key Features**:
      - Add and organize tasks in lists.
