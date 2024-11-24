@@ -1,6 +1,3 @@
-# SkillCraft-Technology
-
-
 
 
 # SkillCraft Technology Projects
